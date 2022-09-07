@@ -4,7 +4,7 @@
 
 ## lorenz.sql
  work         | programming_languages             | ide          | country |
---------------|-----------------------------------|-------------------------
+--------------|-----------------------------------|--------------|---------|
  CTO & Founder| PHP, JavaScript, Bash, SQL        | VSCode       | Italy   |
 
 
