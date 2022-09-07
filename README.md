@@ -3,7 +3,7 @@
 
 
 ## lorenz.sql
- work         | programming                        | ide          | country |
+ work         | skills                             | ide          | country |
 --------------|------------------------------------|--------------|---------|
  CTO & Founder| PHP, JavaScript, Bash, SQL, FFMPEG | VSCode       | Italy   |
 
